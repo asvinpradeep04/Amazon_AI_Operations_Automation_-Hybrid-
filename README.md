@@ -70,6 +70,8 @@ Acted as **Project Manager / Product Delivery Lead**
 This is an independent academic and portfolio case study based on publicly available information and industry assumptions.  
 I am not affiliated with or employed by Amazon.
 
+'''
+
 Project_03_Amazon_AI_Operations_Automation_(Hybrid)/
 │
 ├── README.md
